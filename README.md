@@ -2,7 +2,7 @@
 a data generator, a randomized treap and a simple competitor
 
 
-The Data Generator:
+The Data Generator:\
   gen element():
     return element (id, key);
   gen insertion():
