@@ -2,16 +2,16 @@
 a data generator, a randomized treap and a simple competitor
 
 
-The Data Generator:\
-  gen element():\
-    return element (id, key);\
-  gen insertion():\
-    return an insertion for x;\
-  gen deletion():\
-    •if the element x with iddel has already been deleted,return a deletion for deleting the search key keydel;\
-    •otherwise, return a deletion for deleting the search key x.key, i.e., the search key of x;\
-  gen search():\
-    return a search operation with search key q;\
+The Data Generator:  
+  gen element():  
+    return element (id, key);  
+  gen insertion():  
+    return an insertion for x;  
+  gen deletion():  
+    •if the element x with iddel has already been deleted,return a deletion for deleting the search key keydel;  
+    •otherwise, return a deletion for deleting the search key x.key, i.e., the search key of x;  
+  gen search():  
+    return a search operation with search key q;  
 
 The Randomized Treap:\
   insert(x):\
