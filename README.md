@@ -5,7 +5,7 @@ a data generator, a randomized treap and a simple competitor
 The Data Generator:  
   * gen element():  
     * return element (id, key);  
-  gen insertion():  
+  * gen insertion():  
     return an insertion for x;  
   gen deletion():  
     •if the element x with iddel has already been deleted,return a deletion for deleting the search key keydel;  
