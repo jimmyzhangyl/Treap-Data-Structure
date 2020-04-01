@@ -3,7 +3,7 @@ a data generator, a randomized treap and a simple competitor
 
 
 The Data Generator:  
-  gen element():  
+  *gen element():  
     return element (id, key);  
   gen insertion():  
     return an insertion for x;  
