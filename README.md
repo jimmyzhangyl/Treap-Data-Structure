@@ -13,14 +13,14 @@ The Data Generator:
   gen search():  
     return a search operation with search key q;  
 
-The Randomized Treap:\
-  insert(x):\
-  delet(keydel):\
-  search(q):\
-    return an arbitrary element (if it exists) that has a search key key = q; otherwise,\
-    return NULL.\
+The Randomized Treap:  
+  insert(x):  
+  delet(keydel):  
+  search(q):  
+    return an arbitrary element (if it exists) that has a search key key = q; otherwise,  
+    return NULL.  
 
-The Competitor:\
-  insert(x):\
-  delete(keydel):\
-  search(q):\
+The Competitor:  
+  insert(x):  
+  delete(keydel):  
+  search(q):  
